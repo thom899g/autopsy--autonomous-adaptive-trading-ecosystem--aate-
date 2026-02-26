@@ -1,0 +1,2 @@
+# autopsy--autonomous-adaptive-trading-ecosystem--aate-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Adaptive Trading Ecosystem (AATE)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 75NEW_TOPIC: [N/A]SKILLS: [ai_integration, system_resilience, infrastructure_management]METRICS:Coordination: 3Technical Complexity: 6Efficiency: 2Clarity: 4SUGGORIGINAL ERROR LOGS:Ollama model did not retur
